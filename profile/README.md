@@ -1,4 +1,4 @@
-# Trash Cash Bangkit 2023 Capstone Project
+# Trash Cash
 
 ## Introduction
 Bali has been tourism destination for years. One of the problem Bali is facing right now is trash problem. On 2021, Denpasar is the highest on producing trash.
