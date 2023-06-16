@@ -7,5 +7,8 @@ People who want to sell their trash into TrashCash can scan images of the waste 
 
 ## Repository Information
 [Mobile App Repo](https://github.com/Trash-Cash-Bangkit-Capstone-2023/Trash-Cash-Mobile-App)
+
 [Backend Repo](https://github.com/Trash-Cash-Bangkit-Capstone-2023/trashcash-api)
+
 [Machine Learning Repo](https://github.com/Trash-Cash-Bangkit-Capstone-2023/trashcash-machine-learning)
+
